@@ -1,0 +1,12 @@
+
+.xColumn {
+  display: flex;
+  flex-direction: column;
+}
+
+.xRow {
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  margin-bottom: 10px;
+}
